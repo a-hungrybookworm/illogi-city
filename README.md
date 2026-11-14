@@ -2,6 +2,7 @@
 Suspense. Mystery. Revelations. Illogi-city has it all. This RenPy visual novel follows a stranded bounty hunter's efforts to regain his lost memories, and escape from the prison he knows not why he has been put in.
 
 Playable link - [Illogi-city](https://a-hungrybookworm.itch.io/illogi-city)
+Download the source code from the link above!
 
 # Why?
 This project was built for Haven Bengaluru, a Hackclub program!
